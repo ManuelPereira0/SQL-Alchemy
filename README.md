@@ -1,7 +1,7 @@
 # SQL-Alchemy
 Estudos utilizando o framework SQLAlchemy. <br>
 Utilizando também a tecnologia venv. <br>
-Projeto feito em python, a partir de estudos no site da [DIO](https://www.dio.me/) com o intuito de aprender a utilizar o framework SQLAlchemy, para manipular banco de dados SQL e NOSQL
+Projeto feito em python, a partir de estudos no site da [DIO](https://www.dio.me/) com o intuito de aprender a utilizar o framework SQLAlchemy, para manipular banco de dados SQL e NOSQL.
 
 ## Como criar sua venv:
 ### No windows:
