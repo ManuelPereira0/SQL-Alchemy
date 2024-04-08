@@ -1,5 +1,5 @@
 # SQL-Alchemy
-Projeto feito em python, a partir de estudos no site da [DIO](https://www.dio.me/) com o intuito de aprender a utilizar o ORM SQLAlchemy, para manipular banco de dados SQL e a biblioteca PyMongo, para manipular o banco de dados MongoDB.
+Projeto feito em python, a partir de estudos no site da [DIO](https://www.dio.me/) com o intuito de aprender a utilizar SQLAlchemy, para manipular banco de dados SQL e o PyMongo, para manipular o banco de dados MongoDB.
 
 ## Tecnologias:
 - PyMongo
