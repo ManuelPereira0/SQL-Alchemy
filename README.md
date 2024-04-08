@@ -1,7 +1,11 @@
 # SQL-Alchemy
-Estudos utilizando o ORM SQLAlchemy. <br>
-Utilizando também a tecnologia venv. <br>
-Projeto feito em python, a partir de estudos no site da [DIO](https://www.dio.me/) com o intuito de aprender a utilizar o framework SQLAlchemy, para manipular banco de dados SQL e NOSQL.
+Projeto feito em python, a partir de estudos no site da [DIO](https://www.dio.me/) com o intuito de aprender a utilizar o ORM SQLAlchemy, para manipular banco de dados SQL e a biblioteca PyMongo, para manipular o banco de dados MongoDB.
+
+## Tecnologias:
+- PyMongo
+- SQLAlchemy
+- Python 3.10
+- venv
 
 ## Como criar sua venv:
 ### No windows:
