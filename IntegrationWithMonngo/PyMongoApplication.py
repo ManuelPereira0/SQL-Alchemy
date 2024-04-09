@@ -44,10 +44,10 @@ for post in posts.find():
     # pprint.pprint(post)
     pass
 
-# Printa qunatas documentos tem no banco
+# Printa quantas documentos tem no banco
 print(posts.count_documents({}))
 
-# Printa qunatas documentos tem no banco como o nome do autor = Manuel
+# Printa quantas documentos tem no banco como o nome do autor = Manuel
 print(posts.count_documents({"author" : "Manuel"}))
 
 # Printa qunatas documentos tem no banco, ordenando pelo nome do autor
